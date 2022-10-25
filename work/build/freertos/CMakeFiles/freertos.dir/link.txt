@@ -1,0 +1,2 @@
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\ARM-NO~2.EXE qc libfreertos.a CMakeFiles/freertos.dir/FreeRTOS-Kernel/event_groups.c.obj CMakeFiles/freertos.dir/FreeRTOS-Kernel/list.c.obj CMakeFiles/freertos.dir/FreeRTOS-Kernel/queue.c.obj CMakeFiles/freertos.dir/FreeRTOS-Kernel/stream_buffer.c.obj CMakeFiles/freertos.dir/FreeRTOS-Kernel/tasks.c.obj CMakeFiles/freertos.dir/FreeRTOS-Kernel/timers.c.obj CMakeFiles/freertos.dir/FreeRTOS-Kernel/portable/MemMang/heap_3.c.obj CMakeFiles/freertos.dir/port.c.obj
+C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR17F9~1.EXE libfreertos.a

@@ -1,0 +1,3 @@
+C:/Users/ykp74_desk/Documents/Pico/work/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/ykp74_desk/Documents/Pico/work/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/ykp74_desk/Documents/Pico/work/build/pioasm/CMakeFiles/rebuild_cache.dir
