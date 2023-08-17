@@ -4,7 +4,7 @@
 # compile C with C:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe
 C_DEFINES = 
 
-C_INCLUDES = -IC:\Users\ykp74_desk\Documents\Pico\work\freertos\. -IC:\Users\ykp74_desk\Documents\Pico\work\freertos\FreeRTOS-Kernel\include -IC:\Users\ykp74_desk\Documents\Pico\work\freertos\FreeRTOS-Kernel\portable\GCC\ARM_CM0
+C_INCLUDES = -IC:\Users\ykp74_desk\Documents\_Pico\work\freertos\. -IC:\Users\ykp74_desk\Documents\_Pico\work\freertos\FreeRTOS-Kernel\include -IC:\Users\ykp74_desk\Documents\_Pico\work\freertos\FreeRTOS-Kernel\portable\GCC\ARM_CM0
 
-C_FLAGS = -mcpu=cortex-m0plus -mthumb -Og -g -std=gnu11
+C_FLAGS = -mcpu=cortex-m0plus -mthumb -O3 -DNDEBUG -std=gnu11
 

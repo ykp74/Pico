@@ -21,7 +21,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows-MSVC.cmake"
   "C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.19/Modules/Platform/WindowsPaths.cmake"
-  "C:/Users/ykp74_desk/Documents/Pico/pico-sdk/tools/pioasm/CMakeLists.txt"
+  "C:/Users/ykp74_desk/Documents/_Pico/pico-sdk/tools/pioasm/CMakeLists.txt"
   "CMakeFiles/3.19.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.19.3/CMakeRCCompiler.cmake"
   "CMakeFiles/3.19.3/CMakeSystem.cmake"

@@ -51,10 +51,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\Pico\work
+CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\_Pico\work
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\Pico\work\build
+CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\_Pico\work\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -83,9 +83,9 @@ edit_cache\fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles C:\Users\ykp74_desk\Documents\Pico\work\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles C:\Users\ykp74_desk\Documents\_Pico\work\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -230,1697 +230,1697 @@ freertos\fast:
 	$(MAKE) $(MAKESILENT) -f freertos\CMakeFiles\freertos.dir\build.make /nologo -$(MAKEFLAGS) freertos\CMakeFiles\freertos.dir\build
 .PHONY : freertos\fast
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.i
-
-# target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.s
-
-# target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.obj
-
-# target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.i
-
-# target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.s
-
-# target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
-
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
-
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.obj: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.obj
 
 # target to build an object file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.i: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.i
 
 # target to preprocess a source file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
 
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.s: C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
 
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.s
 
 # target to generate assembly for a file
-C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
-.PHONY : C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.i
+
+# target to preprocess a source file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.s
+
+# target to generate assembly for a file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.obj: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.obj
+
+# target to build an object file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.i: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.i
+
+# target to preprocess a source file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
+
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.s: C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
+
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.s
+
+# target to generate assembly for a file
+C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ykp74.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
+.PHONY : C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
 
 ad9833.obj: ad9833.cpp.obj
 
@@ -2020,194 +2020,194 @@ help:
 	@echo ... bs2_default
 	@echo ... freertos
 	@echo ... ykp74
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/tusb.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/tusb.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/tusb.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/critical_section.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/critical_section.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/critical_section.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/lock_core.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/lock_core.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/lock_core.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/mutex.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/mutex.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/mutex.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/sem.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/sem.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/sem.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/time.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/time.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/time.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/timeout_helper.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/timeout_helper.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/timeout_helper.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/datetime.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/datetime.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/datetime.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/pheap.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/pheap.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/pheap.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/queue.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/queue.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/queue.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_divider/divider.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_math.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_math.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_math.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_math.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_math.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_math.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_platform/platform.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_platform/platform.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_platform/platform.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_printf/printf.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_printf/printf.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_printf/printf.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
-	@echo ... C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/tusb.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/tusb.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/tusb.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/critical_section.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/critical_section.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/critical_section.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/lock_core.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/lock_core.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/lock_core.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/mutex.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/mutex.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/mutex.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/sem.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/sem.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/sem.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/time.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/time.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/time.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/timeout_helper.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/timeout_helper.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/timeout_helper.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/datetime.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/datetime.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/datetime.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/pheap.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/pheap.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/pheap.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/queue.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/queue.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/queue.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_claim/claim.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_claim/claim.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_claim/claim.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_divider/divider.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_flash/flash.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_flash/flash.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_flash/flash.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_pll/pll.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_pll/pll.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_pll/pll.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_spi/spi.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_spi/spi.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_spi/spi.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_sync/sync.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_sync/sync.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_sync/sync.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_timer/timer.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_timer/timer.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_timer/timer.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_uart/uart.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_uart/uart.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_uart/uart.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_divider/divider.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_math.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_math.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_math.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_math.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_math.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_math.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_platform/platform.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_platform/platform.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_platform/platform.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_printf/printf.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_printf/printf.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_printf/printf.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.s
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.obj
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.i
+	@echo ... C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.s
 	@echo ... ad9833.obj
 	@echo ... ad9833.i
 	@echo ... ad9833.s

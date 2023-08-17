@@ -46,10 +46,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\Pico\work
+CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\_Pico\work
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\Pico\work\build
+CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\_Pico\work\build
 
 # Utility rule file for cyw43_firmware_package.
 
@@ -57,14 +57,14 @@ CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\Pico\work\build
 include pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\progress.make
 
 pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package: pico-sdk\src\rp2_common\cyw43_driver\cyw43_resource.o
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build
 
-pico-sdk\src\rp2_common\cyw43_driver\cyw43_resource.o: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\cyw43-driver\firmware\43439A0-7.95.49.00.combined
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating cyw43_resource.o"
-	cd C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\cyw43-driver\firmware
-	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -I binary -O elf32-littlearm -B arm --readonly-text --rename-section .data=.big_const,contents,alloc,load,readonly,data --redefine-sym _binary_43439A0_7_95_49_00_combined_start=fw_43439A0_7_95_49_00_start --redefine-sym _binary_43439A0_7_95_49_00_combined_end=fw_43439A0_7_95_49_00_end --redefine-sym _binary_43439A0_7_95_49_00_combined_size=fw_43439A0_7_95_49_00_size 43439A0-7.95.49.00.combined C:/Users/ykp74_desk/Documents/Pico/work/build/pico-sdk/src/rp2_common/cyw43_driver/cyw43_resource.o
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build
+pico-sdk\src\rp2_common\cyw43_driver\cyw43_resource.o: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\cyw43-driver\firmware\43439A0-7.95.49.00.combined
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating cyw43_resource.o"
+	cd C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\cyw43-driver\firmware
+	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -I binary -O elf32-littlearm -B arm --readonly-text --rename-section .data=.big_const,contents,alloc,load,readonly,data --redefine-sym _binary_43439A0_7_95_49_00_combined_start=fw_43439A0_7_95_49_00_start --redefine-sym _binary_43439A0_7_95_49_00_combined_end=fw_43439A0_7_95_49_00_end --redefine-sym _binary_43439A0_7_95_49_00_combined_size=fw_43439A0_7_95_49_00_size 43439A0-7.95.49.00.combined C:/Users/ykp74_desk/Documents/_Pico/work/build/pico-sdk/src/rp2_common/cyw43_driver/cyw43_resource.o
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build
 
 cyw43_firmware_package: pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package
 cyw43_firmware_package: pico-sdk\src\rp2_common\cyw43_driver\cyw43_resource.o
@@ -78,12 +78,12 @@ pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\build
 .PHONY : pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\build
 
 pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\clean:
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver
 	$(CMAKE_COMMAND) -P CMakeFiles\cyw43_firmware_package.dir\cmake_clean.cmake
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build
 .PHONY : pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\clean
 
 pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\ykp74_desk\Documents\Pico\work C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\cyw43_driver C:\Users\ykp74_desk\Documents\Pico\work\build C:\Users\ykp74_desk\Documents\Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver C:\Users\ykp74_desk\Documents\Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\ykp74_desk\Documents\_Pico\work C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\cyw43_driver C:\Users\ykp74_desk\Documents\_Pico\work\build C:\Users\ykp74_desk\Documents\_Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver C:\Users\ykp74_desk\Documents\_Pico\work\build\pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : pico-sdk\src\rp2_common\cyw43_driver\CMakeFiles\cyw43_firmware_package.dir\depend
 

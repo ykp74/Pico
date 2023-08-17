@@ -46,10 +46,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\Pico\work
+CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\_Pico\work
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\Pico\work\build
+CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\_Pico\work\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles\ykp74.dir\depend.make
@@ -62,940 +62,940 @@ include CMakeFiles\ykp74.dir\flags.make
 
 CMakeFiles\ykp74.dir\main.cpp.obj: CMakeFiles\ykp74.dir\flags.make
 CMakeFiles\ykp74.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ykp74.dir/main.cpp.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\main.cpp.obj -c C:\Users\ykp74_desk\Documents\Pico\work\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ykp74.dir/main.cpp.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\main.cpp.obj -c C:\Users\ykp74_desk\Documents\_Pico\work\main.cpp
 
 CMakeFiles\ykp74.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ykp74.dir/main.cpp.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\work\main.cpp > CMakeFiles\ykp74.dir\main.cpp.i
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\work\main.cpp > CMakeFiles\ykp74.dir\main.cpp.i
 
 CMakeFiles\ykp74.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ykp74.dir/main.cpp.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\work\main.cpp -o CMakeFiles\ykp74.dir\main.cpp.s
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\work\main.cpp -o CMakeFiles\ykp74.dir\main.cpp.s
 
 CMakeFiles\ykp74.dir\ssd1306.cpp.obj: CMakeFiles\ykp74.dir\flags.make
 CMakeFiles\ykp74.dir\ssd1306.cpp.obj: ..\ssd1306.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ykp74.dir/ssd1306.cpp.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\ssd1306.cpp.obj -c C:\Users\ykp74_desk\Documents\Pico\work\ssd1306.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ykp74.dir/ssd1306.cpp.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\ssd1306.cpp.obj -c C:\Users\ykp74_desk\Documents\_Pico\work\ssd1306.cpp
 
 CMakeFiles\ykp74.dir\ssd1306.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ykp74.dir/ssd1306.cpp.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\work\ssd1306.cpp > CMakeFiles\ykp74.dir\ssd1306.cpp.i
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\work\ssd1306.cpp > CMakeFiles\ykp74.dir\ssd1306.cpp.i
 
 CMakeFiles\ykp74.dir\ssd1306.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ykp74.dir/ssd1306.cpp.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\work\ssd1306.cpp -o CMakeFiles\ykp74.dir\ssd1306.cpp.s
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\work\ssd1306.cpp -o CMakeFiles\ykp74.dir\ssd1306.cpp.s
 
 CMakeFiles\ykp74.dir\ad9833.cpp.obj: CMakeFiles\ykp74.dir\flags.make
 CMakeFiles\ykp74.dir\ad9833.cpp.obj: ..\ad9833.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ykp74.dir/ad9833.cpp.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\ad9833.cpp.obj -c C:\Users\ykp74_desk\Documents\Pico\work\ad9833.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ykp74.dir/ad9833.cpp.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\ad9833.cpp.obj -c C:\Users\ykp74_desk\Documents\_Pico\work\ad9833.cpp
 
 CMakeFiles\ykp74.dir\ad9833.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ykp74.dir/ad9833.cpp.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\work\ad9833.cpp > CMakeFiles\ykp74.dir\ad9833.cpp.i
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\work\ad9833.cpp > CMakeFiles\ykp74.dir\ad9833.cpp.i
 
 CMakeFiles\ykp74.dir\ad9833.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ykp74.dir/ad9833.cpp.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\work\ad9833.cpp -o CMakeFiles\ykp74.dir\ad9833.cpp.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/sem.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/sem.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/sem.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/lock_core.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/lock_core.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/time.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/time.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/time.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_time/timeout_helper.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/datetime.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/datetime.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/datetime.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/pheap.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/pheap.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/pheap.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/queue.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/queue.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_util/queue.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/mutex.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/mutex.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/mutex.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/critical_section.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/pico_sync/critical_section.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj   -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/tusb.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/tusb.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: CMakeFiles\ykp74.dir\flags.make
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj -c C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.i"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
-
-CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.s"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\work\ad9833.cpp -o CMakeFiles\ykp74.dir\ad9833.cpp.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_platform/platform.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/sem.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/sem.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/sem.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/lock_core.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/lock_core.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/lock_core.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/time.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/time.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/time.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/timeout_helper.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_time/timeout_helper.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/datetime.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/datetime.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/datetime.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/pheap.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/pheap.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/pheap.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/queue.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/queue.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_util/queue.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/mutex.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/mutex.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/mutex.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/critical_section.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/pico_sync/critical_section.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_printf/printf.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_math.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_math.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building ASM object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj   -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/device/usbd_control.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/audio/audio_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/dfu/dfu_rt_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/hid/hid_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/midi/midi_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/msc/msc_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ecm_rndis_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/net/ncm_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/vendor/vendor_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/class/video/video_device.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/tusb.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/tusb.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/tusb.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_flash/flash.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.s
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: CMakeFiles\ykp74.dir\flags.make
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj: C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj -c C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.i"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c > CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.i
+
+CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ykp74.dir/C_/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.s"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c -o CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.s
 
 # Object files for target ykp74
 ykp74_OBJECTS = \
 "CMakeFiles\ykp74.dir\main.cpp.obj" \
 "CMakeFiles\ykp74.dir\ssd1306.cpp.obj" \
 "CMakeFiles\ykp74.dir\ad9833.cpp.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj" \
-"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj"
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj" \
+"CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj"
 
 # External object files for target ykp74
 ykp74_EXTERNAL_OBJECTS =
@@ -1003,87 +1003,87 @@ ykp74_EXTERNAL_OBJECTS =
 ykp74.elf: CMakeFiles\ykp74.dir\main.cpp.obj
 ykp74.elf: CMakeFiles\ykp74.dir\ssd1306.cpp.obj
 ykp74.elf: CMakeFiles\ykp74.dir\ad9833.cpp.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\sem.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\time.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\datetime.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\pheap.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_util\queue.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
-ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_gpio\gpio.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_claim\claim.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_platform\platform.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_sync\sync.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_irq\irq_handler_chain.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\sem.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\lock_core.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\time.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_time\timeout_helper.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_timer\timer.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\datetime.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\pheap.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_util\queue.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\mutex.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\common\pico_sync\critical_section.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_uart\uart.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_divider\divider.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_runtime\runtime.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_clocks\clocks.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_pll\pll.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_vreg\vreg.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_watchdog\watchdog.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_xosc\xosc.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_printf\printf.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bit_ops\bit_ops_aeabi.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_bootrom\bootrom.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_divider\divider.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_aeabi.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_init_rom.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_math.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_double\double_v1_rom_shim.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_int64_ops\pico_int64_ops_aeabi.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_aeabi.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_init_rom.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_math.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_float\float_v1_rom_shim.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_mem_ops\mem_ops_aeabi.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\crt0.S.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\new_delete.cpp.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_standard_link\binary_info.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio\stdio.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ecm_rndis_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\class\video\video_device.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\tusb.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_fix\rp2040_usb_device_enumeration\rp2040_usb_device_enumeration.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_flash\flash.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_i2c\i2c.c.obj
+ykp74.elf: CMakeFiles\ykp74.dir\C_\Users\ykp74_desk\Documents\_Pico\pico-sdk\src\rp2_common\hardware_spi\spi.c.obj
 ykp74.elf: CMakeFiles\ykp74.dir\build.make
 ykp74.elf: freertos\libfreertos.a
 ykp74.elf: pico-sdk\src\rp2_common\boot_stage2\bs2_default_padded_checksummed.S
 ykp74.elf: CMakeFiles\ykp74.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Linking CXX executable ykp74.elf"
-	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE -mcpu=cortex-m0plus -mthumb -Og -g -Wl,--build-id=none --specs=nosys.specs -Wl,--wrap=sprintf -Wl,--wrap=snprintf -Wl,--wrap=vsnprintf -Wl,--wrap=__clzsi2 -Wl,--wrap=__clzdi2 -Wl,--wrap=__ctzsi2 -Wl,--wrap=__ctzdi2 -Wl,--wrap=__popcountsi2 -Wl,--wrap=__popcountdi2 -Wl,--wrap=__clz -Wl,--wrap=__clzl -Wl,--wrap=__clzll -Wl,--wrap=__aeabi_idiv -Wl,--wrap=__aeabi_idivmod -Wl,--wrap=__aeabi_ldivmod -Wl,--wrap=__aeabi_uidiv -Wl,--wrap=__aeabi_uidivmod -Wl,--wrap=__aeabi_uldivmod -Wl,--wrap=__aeabi_dadd -Wl,--wrap=__aeabi_ddiv -Wl,--wrap=__aeabi_dmul -Wl,--wrap=__aeabi_drsub -Wl,--wrap=__aeabi_dsub -Wl,--wrap=__aeabi_cdcmpeq -Wl,--wrap=__aeabi_cdrcmple -Wl,--wrap=__aeabi_cdcmple -Wl,--wrap=__aeabi_dcmpeq -Wl,--wrap=__aeabi_dcmplt -Wl,--wrap=__aeabi_dcmple -Wl,--wrap=__aeabi_dcmpge -Wl,--wrap=__aeabi_dcmpgt -Wl,--wrap=__aeabi_dcmpun -Wl,--wrap=__aeabi_i2d -Wl,--wrap=__aeabi_l2d -Wl,--wrap=__aeabi_ui2d -Wl,--wrap=__aeabi_ul2d -Wl,--wrap=__aeabi_d2iz -Wl,--wrap=__aeabi_d2lz -Wl,--wrap=__aeabi_d2uiz -Wl,--wrap=__aeabi_d2ulz -Wl,--wrap=__aeabi_d2f -Wl,--wrap=sqrt -Wl,--wrap=cos -Wl,--wrap=sin -Wl,--wrap=tan -Wl,--wrap=atan2 -Wl,--wrap=exp -Wl,--wrap=log -Wl,--wrap=ldexp -Wl,--wrap=copysign -Wl,--wrap=trunc -Wl,--wrap=floor -Wl,--wrap=ceil -Wl,--wrap=round -Wl,--wrap=sincos -Wl,--wrap=asin -Wl,--wrap=acos -Wl,--wrap=atan -Wl,--wrap=sinh -Wl,--wrap=cosh -Wl,--wrap=tanh -Wl,--wrap=asinh -Wl,--wrap=acosh -Wl,--wrap=atanh -Wl,--wrap=exp2 -Wl,--wrap=log2 -Wl,--wrap=exp10 -Wl,--wrap=log10 -Wl,--wrap=pow -Wl,--wrap=powint -Wl,--wrap=hypot -Wl,--wrap=cbrt -Wl,--wrap=fmod -Wl,--wrap=drem -Wl,--wrap=remainder -Wl,--wrap=remquo -Wl,--wrap=expm1 -Wl,--wrap=log1p -Wl,--wrap=fma -Wl,--wrap=__aeabi_lmul -Wl,--wrap=__aeabi_fadd -Wl,--wrap=__aeabi_fdiv -Wl,--wrap=__aeabi_fmul -Wl,--wrap=__aeabi_frsub -Wl,--wrap=__aeabi_fsub -Wl,--wrap=__aeabi_cfcmpeq -Wl,--wrap=__aeabi_cfrcmple -Wl,--wrap=__aeabi_cfcmple -Wl,--wrap=__aeabi_fcmpeq -Wl,--wrap=__aeabi_fcmplt -Wl,--wrap=__aeabi_fcmple -Wl,--wrap=__aeabi_fcmpge -Wl,--wrap=__aeabi_fcmpgt -Wl,--wrap=__aeabi_fcmpun -Wl,--wrap=__aeabi_i2f -Wl,--wrap=__aeabi_l2f -Wl,--wrap=__aeabi_ui2f -Wl,--wrap=__aeabi_ul2f -Wl,--wrap=__aeabi_f2iz -Wl,--wrap=__aeabi_f2lz -Wl,--wrap=__aeabi_f2uiz -Wl,--wrap=__aeabi_f2ulz -Wl,--wrap=__aeabi_f2d -Wl,--wrap=sqrtf -Wl,--wrap=cosf -Wl,--wrap=sinf -Wl,--wrap=tanf -Wl,--wrap=atan2f -Wl,--wrap=expf -Wl,--wrap=logf -Wl,--wrap=ldexpf -Wl,--wrap=copysignf -Wl,--wrap=truncf -Wl,--wrap=floorf -Wl,--wrap=ceilf -Wl,--wrap=roundf -Wl,--wrap=sincosf -Wl,--wrap=asinf -Wl,--wrap=acosf -Wl,--wrap=atanf -Wl,--wrap=sinhf -Wl,--wrap=coshf -Wl,--wrap=tanhf -Wl,--wrap=asinhf -Wl,--wrap=acoshf -Wl,--wrap=atanhf -Wl,--wrap=exp2f -Wl,--wrap=log2f -Wl,--wrap=exp10f -Wl,--wrap=log10f -Wl,--wrap=powf -Wl,--wrap=powintf -Wl,--wrap=hypotf -Wl,--wrap=cbrtf -Wl,--wrap=fmodf -Wl,--wrap=dremf -Wl,--wrap=remainderf -Wl,--wrap=remquof -Wl,--wrap=expm1f -Wl,--wrap=log1pf -Wl,--wrap=fmaf -Wl,--wrap=malloc -Wl,--wrap=calloc -Wl,--wrap=realloc -Wl,--wrap=free -Wl,--wrap=memcpy -Wl,--wrap=memset -Wl,--wrap=__aeabi_memcpy -Wl,--wrap=__aeabi_memset -Wl,--wrap=__aeabi_memcpy4 -Wl,--wrap=__aeabi_memset4 -Wl,--wrap=__aeabi_memcpy8 -Wl,--wrap=__aeabi_memset8 -Wl,-Map=ykp74.elf.map -Wl,--script=C:/Users/ykp74_desk/Documents/Pico/pico-sdk/src/rp2_common/pico_standard_link/memmap_default.ld -Wl,-z,max-page-size=4096 -Wl,--gc-sections -Wl,--wrap=printf -Wl,--wrap=vprintf -Wl,--wrap=puts -Wl,--wrap=putchar -Wl,--wrap=getchar @CMakeFiles\ykp74.dir\objects1.rsp -o ykp74.elf  freertos\libfreertos.a pico-sdk\src\rp2_common\boot_stage2\bs2_default_padded_checksummed.S 
-	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -Oihex C:/Users/ykp74_desk/Documents/Pico/work/build/ykp74.elf ykp74.hex
-	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -Obinary C:/Users/ykp74_desk/Documents/Pico/work/build/ykp74.elf ykp74.bin
-	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objdump.exe" -h C:/Users/ykp74_desk/Documents/Pico/work/build/ykp74.elf >ykp74.dis
-	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objdump.exe" -d C:/Users/ykp74_desk/Documents/Pico/work/build/ykp74.elf >>ykp74.dis
-	elf2uf2\elf2uf2 C:/Users/ykp74_desk/Documents/Pico/work/build/ykp74.elf ykp74.uf2
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Linking CXX executable ykp74.elf"
+	C:\PROGRA~2\GNUARM~1\102021~1.10\bin\AR10B2~1.EXE -mcpu=cortex-m0plus -mthumb -O3 -DNDEBUG -Wl,--build-id=none --specs=nosys.specs -Wl,--wrap=sprintf -Wl,--wrap=snprintf -Wl,--wrap=vsnprintf -Wl,--wrap=__clzsi2 -Wl,--wrap=__clzdi2 -Wl,--wrap=__ctzsi2 -Wl,--wrap=__ctzdi2 -Wl,--wrap=__popcountsi2 -Wl,--wrap=__popcountdi2 -Wl,--wrap=__clz -Wl,--wrap=__clzl -Wl,--wrap=__clzll -Wl,--wrap=__aeabi_idiv -Wl,--wrap=__aeabi_idivmod -Wl,--wrap=__aeabi_ldivmod -Wl,--wrap=__aeabi_uidiv -Wl,--wrap=__aeabi_uidivmod -Wl,--wrap=__aeabi_uldivmod -Wl,--wrap=__aeabi_dadd -Wl,--wrap=__aeabi_ddiv -Wl,--wrap=__aeabi_dmul -Wl,--wrap=__aeabi_drsub -Wl,--wrap=__aeabi_dsub -Wl,--wrap=__aeabi_cdcmpeq -Wl,--wrap=__aeabi_cdrcmple -Wl,--wrap=__aeabi_cdcmple -Wl,--wrap=__aeabi_dcmpeq -Wl,--wrap=__aeabi_dcmplt -Wl,--wrap=__aeabi_dcmple -Wl,--wrap=__aeabi_dcmpge -Wl,--wrap=__aeabi_dcmpgt -Wl,--wrap=__aeabi_dcmpun -Wl,--wrap=__aeabi_i2d -Wl,--wrap=__aeabi_l2d -Wl,--wrap=__aeabi_ui2d -Wl,--wrap=__aeabi_ul2d -Wl,--wrap=__aeabi_d2iz -Wl,--wrap=__aeabi_d2lz -Wl,--wrap=__aeabi_d2uiz -Wl,--wrap=__aeabi_d2ulz -Wl,--wrap=__aeabi_d2f -Wl,--wrap=sqrt -Wl,--wrap=cos -Wl,--wrap=sin -Wl,--wrap=tan -Wl,--wrap=atan2 -Wl,--wrap=exp -Wl,--wrap=log -Wl,--wrap=ldexp -Wl,--wrap=copysign -Wl,--wrap=trunc -Wl,--wrap=floor -Wl,--wrap=ceil -Wl,--wrap=round -Wl,--wrap=sincos -Wl,--wrap=asin -Wl,--wrap=acos -Wl,--wrap=atan -Wl,--wrap=sinh -Wl,--wrap=cosh -Wl,--wrap=tanh -Wl,--wrap=asinh -Wl,--wrap=acosh -Wl,--wrap=atanh -Wl,--wrap=exp2 -Wl,--wrap=log2 -Wl,--wrap=exp10 -Wl,--wrap=log10 -Wl,--wrap=pow -Wl,--wrap=powint -Wl,--wrap=hypot -Wl,--wrap=cbrt -Wl,--wrap=fmod -Wl,--wrap=drem -Wl,--wrap=remainder -Wl,--wrap=remquo -Wl,--wrap=expm1 -Wl,--wrap=log1p -Wl,--wrap=fma -Wl,--wrap=__aeabi_lmul -Wl,--wrap=__aeabi_fadd -Wl,--wrap=__aeabi_fdiv -Wl,--wrap=__aeabi_fmul -Wl,--wrap=__aeabi_frsub -Wl,--wrap=__aeabi_fsub -Wl,--wrap=__aeabi_cfcmpeq -Wl,--wrap=__aeabi_cfrcmple -Wl,--wrap=__aeabi_cfcmple -Wl,--wrap=__aeabi_fcmpeq -Wl,--wrap=__aeabi_fcmplt -Wl,--wrap=__aeabi_fcmple -Wl,--wrap=__aeabi_fcmpge -Wl,--wrap=__aeabi_fcmpgt -Wl,--wrap=__aeabi_fcmpun -Wl,--wrap=__aeabi_i2f -Wl,--wrap=__aeabi_l2f -Wl,--wrap=__aeabi_ui2f -Wl,--wrap=__aeabi_ul2f -Wl,--wrap=__aeabi_f2iz -Wl,--wrap=__aeabi_f2lz -Wl,--wrap=__aeabi_f2uiz -Wl,--wrap=__aeabi_f2ulz -Wl,--wrap=__aeabi_f2d -Wl,--wrap=sqrtf -Wl,--wrap=cosf -Wl,--wrap=sinf -Wl,--wrap=tanf -Wl,--wrap=atan2f -Wl,--wrap=expf -Wl,--wrap=logf -Wl,--wrap=ldexpf -Wl,--wrap=copysignf -Wl,--wrap=truncf -Wl,--wrap=floorf -Wl,--wrap=ceilf -Wl,--wrap=roundf -Wl,--wrap=sincosf -Wl,--wrap=asinf -Wl,--wrap=acosf -Wl,--wrap=atanf -Wl,--wrap=sinhf -Wl,--wrap=coshf -Wl,--wrap=tanhf -Wl,--wrap=asinhf -Wl,--wrap=acoshf -Wl,--wrap=atanhf -Wl,--wrap=exp2f -Wl,--wrap=log2f -Wl,--wrap=exp10f -Wl,--wrap=log10f -Wl,--wrap=powf -Wl,--wrap=powintf -Wl,--wrap=hypotf -Wl,--wrap=cbrtf -Wl,--wrap=fmodf -Wl,--wrap=dremf -Wl,--wrap=remainderf -Wl,--wrap=remquof -Wl,--wrap=expm1f -Wl,--wrap=log1pf -Wl,--wrap=fmaf -Wl,--wrap=malloc -Wl,--wrap=calloc -Wl,--wrap=realloc -Wl,--wrap=free -Wl,--wrap=memcpy -Wl,--wrap=memset -Wl,--wrap=__aeabi_memcpy -Wl,--wrap=__aeabi_memset -Wl,--wrap=__aeabi_memcpy4 -Wl,--wrap=__aeabi_memset4 -Wl,--wrap=__aeabi_memcpy8 -Wl,--wrap=__aeabi_memset8 -Wl,-Map=ykp74.elf.map -Wl,--script=C:/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/rp2_common/pico_standard_link/memmap_default.ld -Wl,-z,max-page-size=4096 -Wl,--gc-sections -Wl,--wrap=printf -Wl,--wrap=vprintf -Wl,--wrap=puts -Wl,--wrap=putchar -Wl,--wrap=getchar @CMakeFiles\ykp74.dir\objects1.rsp -o ykp74.elf  freertos\libfreertos.a pico-sdk\src\rp2_common\boot_stage2\bs2_default_padded_checksummed.S 
+	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -Oihex C:/Users/ykp74_desk/Documents/_Pico/work/build/ykp74.elf ykp74.hex
+	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objcopy.exe" -Obinary C:/Users/ykp74_desk/Documents/_Pico/work/build/ykp74.elf ykp74.bin
+	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objdump.exe" -h C:/Users/ykp74_desk/Documents/_Pico/work/build/ykp74.elf >ykp74.dis
+	echo >nul && "C:\Program Files (x86)\GNU Arm Embedded Toolchain\10 2021.10\bin\arm-none-eabi-objdump.exe" -d C:/Users/ykp74_desk/Documents/_Pico/work/build/ykp74.elf >>ykp74.dis
+	elf2uf2\elf2uf2 C:/Users/ykp74_desk/Documents/_Pico/work/build/ykp74.elf ykp74.uf2
 
 # Rule to build all files generated by this target.
 CMakeFiles\ykp74.dir\build: ykp74.elf
@@ -1095,6 +1095,6 @@ CMakeFiles\ykp74.dir\clean:
 .PHONY : CMakeFiles\ykp74.dir\clean
 
 CMakeFiles\ykp74.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\ykp74_desk\Documents\Pico\work C:\Users\ykp74_desk\Documents\Pico\work C:\Users\ykp74_desk\Documents\Pico\work\build C:\Users\ykp74_desk\Documents\Pico\work\build C:\Users\ykp74_desk\Documents\Pico\work\build\CMakeFiles\ykp74.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\ykp74_desk\Documents\_Pico\work C:\Users\ykp74_desk\Documents\_Pico\work C:\Users\ykp74_desk\Documents\_Pico\work\build C:\Users\ykp74_desk\Documents\_Pico\work\build C:\Users\ykp74_desk\Documents\_Pico\work\build\CMakeFiles\ykp74.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles\ykp74.dir\depend
 

@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/ykp74_desk/Documents/Pico/pico-sdk/tools/elf2uf2/main.cpp" "C:/Users/ykp74_desk/Documents/Pico/work/build/elf2uf2/CMakeFiles/elf2uf2.dir/main.cpp.obj"
+  "C:/Users/ykp74_desk/Documents/_Pico/pico-sdk/tools/elf2uf2/main.cpp" "C:/Users/ykp74_desk/Documents/_Pico/work/build/elf2uf2/CMakeFiles/elf2uf2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "C:/Users/ykp74_desk/Documents/Pico/pico-sdk/src/common/boot_uf2/include"
+  "C:/Users/ykp74_desk/Documents/_Pico/pico-sdk/src/common/boot_uf2/include"
   )
 
 # Targets to which this target links.

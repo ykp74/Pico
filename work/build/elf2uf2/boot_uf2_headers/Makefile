@@ -51,10 +51,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\Pico\pico-sdk\tools\elf2uf2
+CMAKE_SOURCE_DIR = C:\Users\ykp74_desk\Documents\_Pico\pico-sdk\tools\elf2uf2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
+CMAKE_BINARY_DIR = C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -83,18 +83,18 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\CMakeFiles C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers\\CMakeFiles\progress.marks
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\CMakeFiles C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) boot_uf2_headers\all
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\CMakeFiles 0
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) boot_uf2_headers\clean
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers
 .PHONY : clean
 
 # The main clean target
@@ -104,23 +104,23 @@ clean\fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) boot_uf2_headers\preinstall
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall\fast:
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) boot_uf2_headers\preinstall
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers
 .PHONY : preinstall\fast
 
 # clear depends
 depend:
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 1
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers
 .PHONY : depend
 
 # Help Target
@@ -142,8 +142,8 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles\Makefile.cmake 0
-	cd C:\Users\ykp74_desk\Documents\Pico\work\build\elf2uf2\boot_uf2_headers
+	cd C:\Users\ykp74_desk\Documents\_Pico\work\build\elf2uf2\boot_uf2_headers
 .PHONY : cmake_check_build_system
 
